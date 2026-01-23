@@ -112,6 +112,18 @@
       "th": "#458D2B"
     },
     {
+      "name": "GeforceNow",
+      "src": "/Appstore/apps/Geforcenow.html",
+      "by": "LumaOS",
+      "qt": "Play Games",
+      "desc": "A good librairy for play a games",
+      "cat": "fun",
+      "ver": "1",
+      "ldesc": "A good librairy for play a games",
+      "symbol": "brush",
+      "th": "#147500"
+    },
+    {
       "name": "Ducks Quack",
       "src": "/Appstore/apps/ducksquack.html",
       "by": "adthoughtsglobal",
@@ -252,4 +264,5 @@
       "th": "#C6AA4F"
     }
   ]
+
 }
