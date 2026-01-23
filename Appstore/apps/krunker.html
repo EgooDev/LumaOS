@@ -1,41 +1,57 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Krunker</title>
-
-    <style>
-        html, body {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            background: black;
-        }
-        iframe {
-            border: none;
-            width: 100%;
-            height: 100%;
-        }
-    </style>
-</head>
-<body>
+<div
+    class="window-body window-body-app ui-droppable"
+    id="window-body-21"
+    data-multiselectable="true"
+    data-sort_by="name"
+    data-sort_order="asc"
+    style="width:100vw; height:100vh; margin:0; padding:0;"
+>
     <iframe
+        tabindex="-1"
+        data-app="krunker"
+        class="window-app-iframe"
+        frameborder="0"
         src="https://krunker.io/"
+        credentialless
+        allow="
+            screen-wake-lock;
+            picture-in-picture;
+            document-picture-in-picture;
+            camera;
+            encrypted-media;
+            gamepad;
+            display-capture;
+            geolocation;
+            gyroscope;
+            microphone;
+            midi;
+            clipboard-read;
+            clipboard-write;
+            fullscreen;
+            web-share;
+            file-system-handle;
+            local-storage;
+            downloads;
+            cross-origin-isolated;
+        "
         sandbox="
-            allow-scripts
-            allow-same-origin
-            allow-pointer-lock
             allow-forms
+            allow-modals
+            allow-pointer-lock
             allow-popups
             allow-popups-to-escape-sandbox
-            allow-modals
+            allow-same-origin
+            allow-scripts
+            allow-top-navigation-by-user-activation
             allow-downloads
+            allow-presentation
+            allow-storage-access-by-user-activation
         "
-        allow="fullscreen; clipboard-write"
-        referrerpolicy="no-referrer"
+        allowtransparency="true"
+        allowpaymentrequest="true"
+        allowfullscreen
+        webkitallowfullscreen
+        mozallowfullscreen
+        style="width:100%; height:100%; border:none; pointer-events:all;"
     ></iframe>
-</body>
-</html>
+</div>
