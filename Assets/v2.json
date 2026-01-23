@@ -117,10 +117,10 @@
       "by": "LumaOS",
       "qt": "Play Games",
       "desc": "A good librairy for play a games",
-      "cat": "fun",
+      "cat": "launcher",
       "ver": "1",
       "ldesc": "A good librairy for play a games",
-      "symbol": "brush",
+      "symbol": "play",
       "th": "#147500"
     },
     {
@@ -266,3 +266,4 @@
   ]
 
 }
+
