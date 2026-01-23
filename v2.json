@@ -220,7 +220,7 @@
     },
     {
       "name": "Canva.com",
-      "src": "/Appstore/apps/Canva.html",
+      "src": "/Appstore/apps/canva.html",
       "by": "LumaOS",
       "qt": "Canva.com",
       "desc": "Editor with more fonction",
@@ -266,5 +266,6 @@
   ]
 
 }
+
 
 
