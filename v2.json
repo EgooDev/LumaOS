@@ -88,6 +88,18 @@
       "th": "#a15ffd"
     },
     {
+      "name": "WSS AI",
+      "src": "/Appstore/apps/WSSAI.html",
+      "by": "LumaOS",
+      "qt": "Create image with AI",
+      "desc": "Create image with AI.",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Create image with AI.",
+      "symbol": "image_search",
+      "th": "#2BFF0A"
+    },
+    {
       "name": "Textame",
       "src": "/Appstore/apps/textame.html",
       "by": "LumaOS",
@@ -266,6 +278,7 @@
   ]
 
 }
+
 
 
 
