@@ -16,7 +16,7 @@
   ],
   "apps": [
     {
-      "name": "Nova CLI",
+      "name": "Luma CLI",
       "src": "/Appstore/apps/cli.html", 
       "by": "adthoughtsglobal",
       "qt": "Explore more inside",
@@ -28,7 +28,7 @@
       "th": "#5FFCA6"
     },
     {
-      "name": "NovaOS Claw",
+      "name": "LumaOS Claw",
       "src": "/Appstore/apps/claw.html",
       "by": "adthoughtsglobal",
       "qt": "Online social client",
@@ -219,7 +219,7 @@
       "th": "#ff9742"
     },
     {
-      "name": "Canva",
+      "name": "Canva.com",
       "src": "/Appstore/apps/Canva.html",
       "by": "LumaOS",
       "qt": "Canva.com",
@@ -266,3 +266,4 @@
   ]
 
 }
+
