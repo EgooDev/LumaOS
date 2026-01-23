@@ -18,7 +18,7 @@
     {
       "name": "Luma CLI",
       "src": "/Appstore/apps/cli.html", 
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Explore more inside",
       "desc": "System CLI for Nova OS",
       "cat": "tools",
@@ -30,7 +30,7 @@
     {
       "name": "LumaOS Claw",
       "src": "/Appstore/apps/claw.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Online social client",
       "desc": "Rotur Claw NovaOS Client",
       "cat": "rotur",
@@ -42,7 +42,7 @@
     {
       "name": "Chess",
       "src": "/Appstore/apps/chess.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Yo clear chess? Me don't 😭🥀",
       "desc": "Classic chess game with AI",
       "cat": "fun",
@@ -54,7 +54,7 @@
     {
       "name": "Data manager",
       "src": "/Appstore/apps/datamgr.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Dig and replace",
       "desc": "Manage data in local storage",
       "cat": "tools",
@@ -66,7 +66,7 @@
     {
       "name": "Rubix Timer",
       "src": "/Appstore/apps/rubixtimer.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Measure your scores",
       "desc": "Full Rubiks cube timer with scramble.",
       "cat": "tools",
@@ -78,7 +78,7 @@
     {
       "name": "Owi Five",
       "src": "/Appstore/apps/owifive.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Investigate that image",
       "desc": "A tool to dig in details and alter image contents.",
       "cat": "tools",
@@ -90,7 +90,7 @@
     {
       "name": "Textame",
       "src": "/Appstore/apps/textame.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Explore more inside",
       "desc": "Create Text and html files",
       "cat": "text editor",
@@ -102,7 +102,7 @@
     {
       "name": "Artion",
       "src": "/Appstore/apps/paintviz.html",
-      "by": "Vizronix",
+      "by": "LumaOS",
       "qt": "Get creative",
       "desc": "A sophisticated web application for drawing",
       "cat": "tools",
@@ -114,7 +114,7 @@
     {
       "name": "Ducks Quack",
       "src": "/Appstore/apps/ducksquack.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Ensure Ducks Quack",
       "desc": "Pictures of ducks for all. To ensure global peace.",
       "cat": "fun",
@@ -126,7 +126,7 @@
     {
       "name": "WCanvas2",
       "src": "/Appstore/apps/WCanvas.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Create Anything.",
       "desc": "An full HTML, Python, OSL code editor.",
       "cat": "text editor",
@@ -138,7 +138,7 @@
     {
       "name": "Lizabot3",
       "src": "/Appstore/apps/lizabot3.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "A personal Chatbot",
       "desc": "A personal Chatbot that don't hallucinate",
       "cat": "tools",
@@ -174,7 +174,7 @@
     {
       "name": "Dot Engine",
       "src": "/Appstore/apps/dotengine.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Mini beat maker",
       "desc": "Minimal beat editor tool with waveform editing.",
       "cat": "fun",
@@ -186,7 +186,7 @@
     {
       "name": "JSON Editor",
       "src": "/Appstore/apps/json.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Dive deeper in data",
       "desc": "Interactive and responsive editor for JSON files. Stable.",
       "cat": "tools",
@@ -197,7 +197,7 @@
     {
       "name": "PDF Viewer",
       "src": "/Appstore/apps/pdfviewer.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Facts never die, PDFs too.",
       "desc": "View PDFs with ease.",
       "ldesc": "An app that let's you open PDFs in NovaOS using your browser's PDF environment.",
@@ -209,7 +209,7 @@
     {
       "name": "Bad Things",
       "src": "/Appstore/apps/badthings.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Things get bad.",
       "desc": "Interactive endless game where losing is fatal.",
       "cat": "fun",
@@ -233,7 +233,7 @@
     {
       "name": "Minecraft Launcher",
       "src": "/Appstore/apps/nvamine.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Sculpt or destroy.",
       "desc": "Play minecraft clones",
       "cat": "launcher",
@@ -244,7 +244,7 @@
     {
       "name": "Obamafy",
       "src": "/Appstore/apps/obamafy.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "obama",
       "desc": "If it exists, theres obama of it.",
       "cat": "fun",
@@ -266,4 +266,5 @@
   ]
 
 }
+
 
