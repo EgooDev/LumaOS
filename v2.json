@@ -219,6 +219,18 @@
       "th": "#ff9742"
     },
     {
+      "name": "Canva",
+      "src": "/Appstore/apps/Canva.html",
+      "by": "LumaOS",
+      "qt": "Canva.com",
+      "desc": "Editor with more fonction",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Canva est un outil de design graphique en ligne gratuit. Utilisez-le pour créer vos publications sur les réseaux sociaux, vos présentations, vos affiches, vos vidéos, vos logos et bien plus encore.",
+      "symbol": "visibility",
+      "th": "#ff9742"
+    },
+    {
       "name": "Minecraft Launcher",
       "src": "/Appstore/apps/nvamine.html",
       "by": "adthoughtsglobal",
@@ -252,4 +264,5 @@
       "th": "#C6AA4F"
     }
   ]
+
 }
