@@ -52,6 +52,18 @@
       "th": "#ffd700"
     },
     {
+      "name": "Krunker",
+      "src": "/Appstore/apps/krunker.html",
+      "by": "LumaOS",
+      "qt": "Krunker is a FPS",
+      "desc": "Krunker is a FPS.",
+      "cat": "fun",
+      "ver": "1",
+      "ldesc": "Krunker is a FPS.",
+      "symbol": "game",
+      "th": "#ffd700"
+    },
+    {
       "name": "Data manager",
       "src": "/Appstore/apps/datamgr.html",
       "by": "adthoughtsglobal",
@@ -266,5 +278,6 @@
   ]
 
 }
+
 
 
