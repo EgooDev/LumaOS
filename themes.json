@@ -14,7 +14,7 @@
         "wallpaper": "https://i.imgur.com/Qh533Tq.png"
     },
     "Obsidian+": {
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "type": "dark",
         "colors": {
             "--col-bg1": "#000000",
@@ -155,7 +155,7 @@
     },
     "Diorite": {
         "type": "bright",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#DFDFDF",
             "--col-bg2": "#F4F9F0",
@@ -230,7 +230,7 @@
     },
     "Aquamarine+": {
         "type": "dark",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#101819",
             "--col-bg2": "#182227",
@@ -249,7 +249,7 @@
     },
     "Iceberg": {
         "type": "light",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#E6EFFF",
             "--col-bg2": "#D6E3FF",
@@ -268,7 +268,7 @@
     },
     "Forest": {
         "type": "dark",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#2C3D2C",
             "--col-bg2": "#345037",
@@ -287,7 +287,7 @@
     },
     "Evening": {
         "type": "dark",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#0E162A",
             "--col-bg2": "#1F2541",
@@ -306,7 +306,7 @@
     },
     "Ultramarine": {
         "type": "dark",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#080A19",
             "--col-bg2": "#0C0F27",
@@ -325,7 +325,7 @@
     },
     "Twilight": {
         "type": "dark",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#493866",
             "--col-bg2": "#5E4B86",
@@ -344,7 +344,7 @@
     },
     "Vehemence": {
         "type": "dark",
-        "by": "un4ya.1024",
+        "by": "LumaOS",
         "colors": {
             "--col-bg1": "#2A0505",
             "--col-bg2": "#1E0C0C",
@@ -469,4 +469,5 @@
         },
         "wallpaper": "https://wallpapers.com/images/high/operating-system-linux-mint-20-default-v8tc8pbevmmyxtib.webp"
     }
+
 }
