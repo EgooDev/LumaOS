@@ -112,6 +112,18 @@
       "th": "#ffffff"
     },
     {
+      "name": "Discord",
+      "src": "/Appstore/apps/discord.html",
+      "by": "LumaOS",
+      "qt": "Discord for gaming",
+      "desc": "Discord is a communication app for text, voice, and video chat in communities.",
+      "cat": "text editor",
+      "ver": "1",
+      "ldesc": "Discord is a communication app for text, voice, and video chat in communities.",
+      "symbol": "Dsc",
+      "th": "#ffffff"
+    },
+    {
       "name": "Artion",
       "src": "/Appstore/apps/paintviz.html",
       "by": "Vizronix",
@@ -278,6 +290,7 @@
   ]
 
 }
+
 
 
 
