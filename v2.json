@@ -4,35 +4,35 @@
   ],
   "featured": [
     {
-      "text": "Read PDF files",
-      "appName": "PDF Viewer",
-      "img": "https://i.ibb.co/HL6SQxRr/image.png"
+      "text": "Discord",
+      "appName": "Discord",
+      "img": "https://i.imgur.com/JvauP8g.png"
     },
     {
-      "text": "Mine and craft",
+      "text": "Minecraft",
       "appName": "Minecraft Launcher",
-      "img": "https://ichef.bbci.co.uk/news/480/cpsprodpb/15F8/production/_131442650_mediaitem131442649.jpg.webp"
+      "img": "https://i.imgur.com/Nj88cvg.png"
     }
   ],
   "apps": [
     {
-      "name": "Nova CLI",
+      "name": "Luma CLI",
       "src": "/Appstore/apps/cli.html", 
       "by": "adthoughtsglobal",
       "qt": "Explore more inside",
-      "desc": "System CLI for Nova OS",
+      "desc": "System CLI for Luma OS",
       "cat": "tools",
       "ver": "1",
-      "ldesc": "Access Nova System directly with Nova CLI, read and write files, execute functions and return data.",
+      "ldesc": "Access Nova System directly with Luma CLI, read and write files, execute functions and return data.",
       "symbol": "terminal",
       "th": "#5FFCA6"
     },
     {
-      "name": "NovaOS Claw",
+      "name": "LumaOS Claw",
       "src": "/Appstore/apps/claw.html",
       "by": "adthoughtsglobal",
       "qt": "Online social client",
-      "desc": "Rotur Claw NovaOS Client",
+      "desc": "Rotur Claw LumaOS Client",
       "cat": "rotur",
       "ver": "1",
       "ldesc": "Read the Claw feed or become a part in the conversation. Now with attatchments.",
@@ -102,12 +102,12 @@
     {
       "name": "Textame",
       "src": "/Appstore/apps/textame.html",
-      "by": "adthoughtsglobal",
+      "by": "LumaOS",
       "qt": "Explore more inside",
       "desc": "Create Text and html files",
       "cat": "text editor",
       "ver": "1",
-      "ldesc": "Create formatted HTML files without code. Text editor for rich text editing in NovaOS.",
+      "ldesc": "Create formatted HTML files without code. Text editor for rich text editing in LumaOS.",
       "symbol": "rtt",
       "th": "#ffffff"
     },
@@ -290,6 +290,7 @@
   ]
 
 }
+
 
 
 
