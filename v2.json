@@ -28,6 +28,18 @@
       "th": "#5FFCA6"
     },
     {
+      "name": "Fl Studio",
+      "src": "/Appstore/apps/flstudio.html", 
+      "by": "LumaOS",
+      "qt": "Make Song.",
+      "desc": "FL Studio for LumaOS",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "FL Studio for LumaOS",
+      "symbol": "F",
+      "th": "#DE7500"
+    },
+    {
       "name": "LumaOS Claw",
       "src": "/Appstore/apps/claw.html",
       "by": "LumaOS",
@@ -290,6 +302,7 @@
   ]
 
 }
+
 
 
 
