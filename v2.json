@@ -1,6 +1,6 @@
 {
   "vdevs": [
-    "adthoughtsglobal"
+    "LumaOS"
   ],
   "featured": [
     {
@@ -117,11 +117,11 @@
       "by": "LumaOS",
       "qt": "Discord for gaming",
       "desc": "Discord is a communication app for text, voice, and video chat in communities.",
-      "cat": "text editor",
+      "cat": "tools",
       "ver": "1",
       "ldesc": "Discord is a communication app for text, voice, and video chat in communities.",
-      "symbol": "Dsc",
-      "th": "#ffffff"
+      "symbol": "D",
+      "th": "#0040FF"
     },
     {
       "name": "Artion",
@@ -290,6 +290,7 @@
   ]
 
 }
+
 
 
 
