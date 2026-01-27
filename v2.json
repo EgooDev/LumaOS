@@ -27,6 +27,91 @@
       "symbol": "terminal",
       "th": "#5FFCA6"
     },
+  "apps": [
+    {
+      "name": "DuckDuckGO",
+      "src": "/Appstore/apps/Duckduckgo.html", 
+      "by": "LumaOS",
+      "qt": "Get Privacy on web",
+      "desc": "Browser DuckDuckGo",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Browser DuckDuckGo.",
+      "symbol": "D",
+      "th": "#5FFCA6"
+    },
+    {
+      "name": "Figma",
+      "src": "/Appstore/apps/Figma.html", 
+      "by": "LumaOS",
+      "qt": "Use Figma",
+      "desc": "Design on Figma",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Design on Figma.",
+      "symbol": "F",
+      "th": "#5FFCA6"
+    },
+    {
+      "name": "Netflix",
+      "src": "/Appstore/apps/Netflix.html", 
+      "by": "LumaOS",
+      "qt": "Watch Netflix",
+      "desc": "Watch Netflix",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Watch Netflix.",
+      "symbol": "N",
+      "th": "#5FFCA6"
+    },
+    {
+      "name": "Libre Office",
+      "src": "/Appstore/apps/Office.html", 
+      "by": "LumaOS",
+      "qt": "Suite Office",
+      "desc": "Suite Office",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Suite Office.",
+      "symbol": "O",
+      "th": "#5FFCA6"
+    },
+    {
+      "name": "Photopea",
+      "src": "/Appstore/apps/Photopea.html", 
+      "by": "LumaOS",
+      "qt": "Photoshop Free (photopea)",
+      "desc": "Photoshop Free (photopea)",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Photoshop Free (photopea)",
+      "symbol": "P",
+      "th": "#5FFCA6"
+    },
+    {
+      "name": "Spotify",
+      "src": "/Appstore/apps/Spotify.html", 
+      "by": "LumaOS",
+      "qt": "Listen Musics",
+      "desc": "Listen Musics",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Listen Musics",
+      "symbol": "S",
+      "th": "#5FFCA6"
+    },
+    {
+      "name": "Tiktok",
+      "src": "/Appstore/apps/Tiktok.html", 
+      "by": "LumaOS",
+      "qt": "Watch Tiktok",
+      "desc": "Watch Tiktok",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Watch Tiktok",
+      "symbol": "Star",
+      "th": "#5FFCA6"
+    },
     {
       "name": "Xbox Clound Gaming",
       "src": "/Appstore/apps/xboxcloud.html", 
@@ -314,6 +399,7 @@
   ]
 
 }
+
 
 
 
