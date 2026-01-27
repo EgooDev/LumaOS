@@ -27,7 +27,6 @@
       "symbol": "terminal",
       "th": "#5FFCA6"
     },
-  "apps": [
     {
       "name": "DuckDuckGO",
       "src": "/Appstore/apps/Duckduckgo.html", 
@@ -397,8 +396,8 @@
       "th": "#C6AA4F"
     }
   ]
-
 }
+
 
 
 
