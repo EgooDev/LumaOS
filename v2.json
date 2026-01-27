@@ -36,8 +36,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Browser DuckDuckGo.",
-      "symbol": "D",
-      "th": "#5FFCA6"
+      "symbol": "ad_group",
+      "th": "#F58027"
     },
     {
       "name": "Figma",
@@ -48,8 +48,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Design on Figma.",
-      "symbol": "F",
-      "th": "#5FFCA6"
+      "symbol": "ink_highlighter",
+      "th": "#5027F5"
     },
     {
       "name": "Netflix",
@@ -60,8 +60,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Watch Netflix.",
-      "symbol": "N",
-      "th": "#5FFCA6"
+      "symbol": "movie",
+      "th": "#F52727"
     },
     {
       "name": "Libre Office",
@@ -72,8 +72,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Suite Office.",
-      "symbol": "O",
-      "th": "#5FFCA6"
+      "symbol": "sticky_note_2",
+      "th": "#F54627"
     },
     {
       "name": "Photopea",
@@ -84,8 +84,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Photoshop Free (photopea)",
-      "symbol": "P",
-      "th": "#5FFCA6"
+      "symbol": "settings_photo_camera",
+      "th": "#008F77"
     },
     {
       "name": "Spotify",
@@ -96,8 +96,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Listen Musics",
-      "symbol": "S",
-      "th": "#5FFCA6"
+      "symbol": "queue_music",
+      "th": "#00B300"
     },
     {
       "name": "Tiktok",
@@ -108,8 +108,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Watch Tiktok",
-      "symbol": "Star",
-      "th": "#5FFCA6"
+      "symbol": "hangout_video",
+      "th": "#000817"
     },
     {
       "name": "Xbox Clound Gaming",
@@ -120,20 +120,8 @@
       "cat": "launcher",
       "ver": "1",
       "ldesc": "Xbox Cloud Gaming.",
-      "symbol": "X",
-      "th": "#66FF00"
-    },
-    {
-      "name": "Fl Studio",
-      "src": "/Appstore/apps/flstudio.html", 
-      "by": "LumaOS",
-      "qt": "Make Song.",
-      "desc": "FL Studio for LumaOS",
-      "cat": "tools",
-      "ver": "1",
-      "ldesc": "FL Studio for LumaOS",
-      "symbol": "F",
-      "th": "#DE7500"
+      "symbol": "sports_esports",
+      "th": "#3D9600"
     },
     {
       "name": "LumaOS Claw",
@@ -228,8 +216,8 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Discord is a communication app for text, voice, and video chat in communities.",
-      "symbol": "D",
-      "th": "#0040FF"
+      "symbol": "adaptive_audio_mic",
+      "th": "#536DB5"
     },
     {
       "name": "Artion",
@@ -252,7 +240,7 @@
       "cat": "launcher",
       "ver": "1",
       "ldesc": "A good librairy for play a games",
-      "symbol": "play",
+      "symbol": "stadia_controller",
       "th": "#147500"
     },
     {
@@ -397,6 +385,7 @@
     }
   ]
 }
+
 
 
 
