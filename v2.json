@@ -64,18 +64,6 @@
       "th": "#F52727"
     },
     {
-      "name": "Libre Office",
-      "src": "/Appstore/apps/Office.html", 
-      "by": "LumaOS",
-      "qt": "Suite Office",
-      "desc": "Suite Office",
-      "cat": "tools",
-      "ver": "1",
-      "ldesc": "Suite Office.",
-      "symbol": "sticky_note_2",
-      "th": "#F54627"
-    },
-    {
       "name": "Photopea",
       "src": "/Appstore/apps/Photopea.html", 
       "by": "LumaOS",
@@ -385,6 +373,7 @@
     }
   ]
 }
+
 
 
 
