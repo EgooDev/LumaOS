@@ -23,9 +23,21 @@
       "desc": "System CLI for Luma OS",
       "cat": "tools",
       "ver": "1",
-      "ldesc": "Access Nova System directly with Luma CLI, read and write files, execute functions and return data.",
+      "ldesc": "Access Luma System directly with Luma CLI, read and write files, execute functions and return data.",
       "symbol": "terminal",
       "th": "#5FFCA6"
+    },
+    {
+      "name": "Xbox Clound Gaming",
+      "src": "/Appstore/apps/xboxcloud.html", 
+      "by": "LumaOS",
+      "qt": "Xbox Cloud Gaming",
+      "desc": "Xbox Cloud Gaming",
+      "cat": "launcher",
+      "ver": "1",
+      "ldesc": "Xbox Cloud Gaming.",
+      "symbol": "X",
+      "th": "#66FF00"
     },
     {
       "name": "Fl Studio",
@@ -302,6 +314,7 @@
   ]
 
 }
+
 
 
 
