@@ -64,14 +64,26 @@
       "th": "#F52727"
     },
     {
+      "name": "Whatsapp",
+      "src": "/Appstore/apps/whatsapp.html", 
+      "by": "LumaOS",
+      "qt": "Send message with whatsapp",
+      "desc": "Send message with whatsapp",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Send message with whatsapp",
+      "symbol": "https://i.imgur.com/muGRNna.png",
+      "th": "#F52727"
+    },
+    {
       "name": "Telegram",
-      "src": "/Appstore/apps/Netflix.html", 
+      "src": "/Appstore/apps/telegram.html", 
       "by": "LumaOS",
       "qt": "Send message with Telegram",
       "desc": "Send message with Telegram",
       "cat": "tools",
       "ver": "1",
-      "ldesc": "Watch Netflix.",
+      "ldesc": "Send message with Telegram.",
       "symbol": "https://i.imgur.com/BaLlG2l.png",
       "th": "#F52727"
     },
@@ -385,6 +397,7 @@
     }
   ]
 }
+
 
 
 
