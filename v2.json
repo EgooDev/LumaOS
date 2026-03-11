@@ -36,7 +36,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Browser DuckDuckGo.",
-      "symbol": "ad_group",
+      "symbol": "https://i.imgur.com/3mkOQmW.png",
       "th": "#F58027"
     },
     {
@@ -48,7 +48,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Design on Figma.",
-      "symbol": "ink_highlighter",
+      "symbol": "https://i.imgur.com/9Dpqa5G.png",
       "th": "#5027F5"
     },
     {
@@ -60,7 +60,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Watch Netflix.",
-      "symbol": "movie",
+      "symbol": "https://i.imgur.com/8rJv4fR.png",
       "th": "#F52727"
     },
     {
@@ -72,7 +72,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Photoshop Free (photopea)",
-      "symbol": "settings_photo_camera",
+      "symbol": "https://i.imgur.com/9bk56sS.png",
       "th": "#008F77"
     },
     {
@@ -84,7 +84,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Listen Musics",
-      "symbol": "queue_music",
+      "symbol": "https://i.imgur.com/Y4ZAZeL.png",
       "th": "#00B300"
     },
     {
@@ -96,7 +96,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Watch Tiktok",
-      "symbol": "hangout_video",
+      "symbol": "https://i.imgur.com/dsEUlN1.png",
       "th": "#000817"
     },
     {
@@ -108,7 +108,7 @@
       "cat": "launcher",
       "ver": "1",
       "ldesc": "Xbox Cloud Gaming.",
-      "symbol": "sports_esports",
+      "symbol": "https://i.imgur.com/6XP2ral.png",
       "th": "#3D9600"
     },
     {
@@ -132,7 +132,7 @@
       "cat": "fun",
       "ver": "1",
       "ldesc": "Play an old board game called chess either with a friend or with a very dumb AI.",
-      "symbol": "chess",
+      "symbol": "https://i.imgur.com/zDQAirZ.png",
       "th": "#ffd700"
     },
     {
@@ -144,7 +144,7 @@
       "cat": "fun",
       "ver": "1",
       "ldesc": "Krunker is a FPS.",
-      "symbol": "game",
+      "symbol": "https://i.imgur.com/55svRXz.png",
       "th": "#ffd700"
     },
     {
@@ -204,7 +204,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Discord is a communication app for text, voice, and video chat in communities.",
-      "symbol": "adaptive_audio_mic",
+      "symbol": "https://i.imgur.com/tma6KxQ.png",
       "th": "#536DB5"
     },
     {
@@ -228,7 +228,7 @@
       "cat": "launcher",
       "ver": "1",
       "ldesc": "A good librairy for play a games",
-      "symbol": "stadia_controller",
+      "symbol": "https://i.imgur.com/0rVBxqI.png",
       "th": "#147500"
     },
     {
@@ -346,7 +346,7 @@
       "desc": "Play minecraft clones",
       "cat": "fun",
       "ldesc": "Minecraft launcher in NovaOS is a way to play different minecraft web clones.",
-      "symbol": "deployed_code",
+      "symbol": "https://i.imgur.com/BR3962p.png",
       "th": "#093b3a"
     },
     {
@@ -373,6 +373,7 @@
     }
   ]
 }
+
 
 
 
