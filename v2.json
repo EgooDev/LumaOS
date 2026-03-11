@@ -52,6 +52,18 @@
       "th": "#5027F5"
     },
     {
+      "name": "ChatGPT",
+      "src": "/Appstore/apps/chatgpt.html", 
+      "by": "OpenAI",
+      "qt": "Chat with ChatGPT.",
+      "desc": "Chat with ChatGPT.",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Chat with ChatGPT.",
+      "symbol": "https://i.imgur.com/25veQtj.png",
+      "th": "#5027F5"
+    },
+    {
       "name": "Netflix",
       "src": "/Appstore/apps/Netflix.html", 
       "by": "LumaOS",
@@ -385,6 +397,7 @@
     }
   ]
 }
+
 
 
 
