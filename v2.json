@@ -28,18 +28,6 @@
       "th": "#5FFCA6"
     },
     {
-      "name": "test",
-      "src": "/Appstore/apps/cli.html", 
-      "by": "LumaOS",
-      "qt": "Explore more inside",
-      "desc": "System CLI for Luma OS",
-      "cat": "tools",
-      "ver": "1",
-      "ldesc": "Access Luma System directly with Luma CLI, read and write files, execute functions and return data.",
-      "symbol": "https://i.imgur.com/jSWep3q.png",
-      "th": "#5FFCA6"
-    },
-    {
       "name": "DuckDuckGO",
       "src": "/Appstore/apps/Duckduckgo.html", 
       "by": "LumaOS",
@@ -385,6 +373,7 @@
     }
   ]
 }
+
 
 
 
