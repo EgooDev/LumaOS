@@ -64,6 +64,18 @@
       "th": "#F52727"
     },
     {
+      "name": "Telegram",
+      "src": "/Appstore/apps/Netflix.html", 
+      "by": "LumaOS",
+      "qt": "Send message with Telegram",
+      "desc": "Send message with Telegram",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Watch Netflix.",
+      "symbol": "https://i.imgur.com/BaLlG2l.png",
+      "th": "#F52727"
+    },
+    {
       "name": "Photopea",
       "src": "/Appstore/apps/Photopea.html", 
       "by": "LumaOS",
@@ -373,6 +385,7 @@
     }
   ]
 }
+
 
 
 
