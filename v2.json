@@ -36,7 +36,7 @@
       "cat": "tools",
       "ver": "1",
       "ldesc": "Access Luma System directly with Luma CLI, read and write files, execute functions and return data.",
-      "symbol": "https://i.imgur.com/dheGQPM.jpeg",
+      "symbol": "https://i.imgur.com/jSWep3q.png",
       "th": "#5FFCA6"
     },
     {
@@ -385,6 +385,7 @@
     }
   ]
 }
+
 
 
 
