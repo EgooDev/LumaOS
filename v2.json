@@ -40,6 +40,18 @@
       "th": "#F58027"
     },
     {
+      "name": "Chrome",
+      "src": "/Appstore/apps/chrome.html", 
+      "by": "LumaOS",
+      "qt": "Webrowser",
+      "desc": "Browser Chrome",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Browser Chrome.",
+      "symbol": "https://i.imgur.com/DS8ohAZ.png",
+      "th": "#F58027"
+    },
+    {
       "name": "Figma",
       "src": "/Appstore/apps/Figma.html", 
       "by": "LumaOS",
