@@ -64,6 +64,18 @@
       "th": "#5027F5"
     },
     {
+      "name": "VS Code",
+      "src": "/Appstore/apps/vscode.html", 
+      "by": "LumaOS",
+      "qt": "Use vscode",
+      "desc": "Dev on VS Code",
+      "cat": "tools",
+      "ver": "1",
+      "ldesc": "Dev on VS Code.",
+      "symbol": "https://i.imgur.com/x1fY4M3.png",
+      "th": "#242424"
+    },
+    {
       "name": "ChatGPT",
       "src": "/Appstore/apps/chatgpt.html", 
       "by": "OpenAI",
